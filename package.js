@@ -12,7 +12,7 @@ Package.onUse(function (api) {
 
   // Meteor dependencies
   api.use('check');
-  api.use('coffeescript');
+  api.use('coffeescript@1.0.3');
   api.use('underscore');
   api.use('accounts-password');
   api.use('simple:json-routes@2.1.0');
