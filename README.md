@@ -1,4 +1,10 @@
-# Restivus [v0.8.12](https://github.com/kahmali/meteor-restivus/blob/devel/CHANGELOG.md#change-log) [![Build Status](https://travis-ci.org/kahmali/meteor-restivus.svg)](https://travis-ci.org/kahmali/meteor-restivus)
+# Compatibility
+
+**Compatible with Meteor 2.4**
+
+This repository provides versions for the package [nimble:restivus](https://github.com/kahmali/meteor-restivus) that are compatible with latest Meteor. This is necessary because the author is not maintaining the package anymore.
+
+# Restivus [v0.8.13](https://github.com/kahmali/meteor-restivus/blob/devel/CHANGELOG.md#change-log) [![Build Status](https://travis-ci.org/kahmali/meteor-restivus.svg)](https://travis-ci.org/kahmali/meteor-restivus)
 
 #### REST APIs for the Best of Us!
 
